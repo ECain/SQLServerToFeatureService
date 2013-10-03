@@ -168,7 +168,6 @@
       this.txtSQLDatabase.Name = "txtSQLDatabase";
       this.txtSQLDatabase.Size = new System.Drawing.Size(441, 31);
       this.txtSQLDatabase.TabIndex = 9;
-      this.txtSQLDatabase.Text = "EdanSQL";
       // 
       // label13
       // 
@@ -187,7 +186,6 @@
       this.txtSQLPassword.Name = "txtSQLPassword";
       this.txtSQLPassword.Size = new System.Drawing.Size(441, 31);
       this.txtSQLPassword.TabIndex = 7;
-      this.txtSQLPassword.Text = "za64cpfSQL";
       this.txtSQLPassword.UseSystemPasswordChar = true;
       // 
       // label7
@@ -207,7 +205,6 @@
       this.txtSQLUserName.Name = "txtSQLUserName";
       this.txtSQLUserName.Size = new System.Drawing.Size(441, 31);
       this.txtSQLUserName.TabIndex = 5;
-      this.txtSQLUserName.Text = "Edan@etxrpyjvkj";
       // 
       // label6
       // 
@@ -323,7 +320,6 @@
       this.txtAGOPassword.Name = "txtAGOPassword";
       this.txtAGOPassword.Size = new System.Drawing.Size(345, 31);
       this.txtAGOPassword.TabIndex = 15;
-      this.txtAGOPassword.Text = "za64cpf4793";
       this.txtAGOPassword.UseSystemPasswordChar = true;
       // 
       // label8
@@ -341,7 +337,6 @@
       this.txtAGOUserName.Name = "txtAGOUserName";
       this.txtAGOUserName.Size = new System.Drawing.Size(345, 31);
       this.txtAGOUserName.TabIndex = 13;
-      this.txtAGOUserName.Text = "edan";
       // 
       // label9
       // 
